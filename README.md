@@ -29,13 +29,19 @@
   - Conducted **geospatial & time-series analysis** to identify high-risk crash zones and trends.
 
 ## 💼 Work Experience
-### **BNP Paribas India Solutions Pvt Ltd**
-- **Senior Technology Manager** *(Jan 2024 - Jun 2024)*
-  - Led global reconciliation platforms using **SQL Server, Intellimatch, and Power BI**.
-- **Senior Technology Manager - Bank of the West** *(May 2018 - Dec 2023)*
-  - Managed a **24x7 global application support team (50+ members)** for 150+ banking applications.
-- **Technology Manager - IHC Reporting** *(May 2017 - May 2018)*
-  - Oversaw **regulatory data reporting** to the US Federal Reserve using **ETL, Axiom, Moody’s, OBIEE**.
+### **BNP Paribas (Mar 2009 – Jun 2024) – Leadership in Technology & Data-Driven Transformation**
+Over 15 years at BNP Paribas, I progressed from a Software Engineer to a Senior Technology Manager, leading global teams and delivering impactful technology solutions across retail, corporate, and commercial banking, regulatory reporting, and data analytics.
+
+#### Key Responsibilities & Achievements:
+- **Strategic Leadership & Program Management:** Led enterprise-wide application development and production support for 150+ critical banking applications, ensuring operational efficiency and regulatory compliance.
+- **Technology Transformation & Data Solutions:** Spearheaded data sourcing, transformation, and regulatory reporting for BNP Paribas’ US operations and optimized reconciliation platforms.
+- **Business Innovation:** Established BNP Paribas as the first Swiss bank to interface with GTSA for commodities trade finance, and transitioned key banking applications across Geneva, Singapore, and Paris.
+
+### **Lionbridge Technologies (Nov 2007 – Mar 2009) – Database Engineering & Optimization**
+Managed Sybase database administration and development for Pearson Success Net, optimizing queries and stored procedures to enhance application performance. Supported content management and data-driven decision-making for Pearson’s e-learning platform.
+
+### **ATOS Origin (Aug 2005 – Nov 2007) – Application Development & Maintenance**
+Developed and maintained Oracle Forms and Reports for AHOLD, a Netherlands-based retail chain, improving system functionality and performance to support retail operations.
 
 ## 🎓 Certifications
 - **Python Programming** - DataCamp (2024)
